@@ -1,4 +1,4 @@
-AskNicely PHP backend skill test
+AskNicely PHP front-end skill test
 ==========================
 
 
