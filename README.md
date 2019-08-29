@@ -1,9 +1,9 @@
-AskNicely PHP front-end skill test
-==========================
+AskNicely PHP frontend test
+===========================
 
 
 ### Application
-The TODO App allows a user to add reminders of thing he needs to do. Here are the requirement for the app.
+The TODO App allows a user to add reminders of things they need to do. Here are the requirements for the app.
 * Users can add, delete and see their todos.
 * All the todos are private, users can't see other user's todos.
 * Users must be logged in order to add/delete/see their todos.
