@@ -1,6 +1,6 @@
 {
-    "name": "fabpot/silex-skeleton",
-    "description": "A pre-configured skeleton for the Silex microframework",
+    "name": "asknicely/frontend-test",
+    "description": "The AskNicely frontend test",
     "license": "MIT",
     "type": "project",
     "require": {
